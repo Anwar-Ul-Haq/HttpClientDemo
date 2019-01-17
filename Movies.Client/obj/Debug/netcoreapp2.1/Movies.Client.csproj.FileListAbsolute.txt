@@ -1,0 +1,11 @@
+D:\PS\Using HttpClient to Consume APIs in .NET Core\02\demos\start\Movies.Client\bin\Debug\netcoreapp2.1\Movies.Client.deps.json
+D:\PS\Using HttpClient to Consume APIs in .NET Core\02\demos\start\Movies.Client\bin\Debug\netcoreapp2.1\Movies.Client.runtimeconfig.json
+D:\PS\Using HttpClient to Consume APIs in .NET Core\02\demos\start\Movies.Client\bin\Debug\netcoreapp2.1\Movies.Client.runtimeconfig.dev.json
+D:\PS\Using HttpClient to Consume APIs in .NET Core\02\demos\start\Movies.Client\bin\Debug\netcoreapp2.1\Movies.Client.dll
+D:\PS\Using HttpClient to Consume APIs in .NET Core\02\demos\start\Movies.Client\bin\Debug\netcoreapp2.1\Movies.Client.pdb
+D:\PS\Using HttpClient to Consume APIs in .NET Core\02\demos\start\Movies.Client\obj\Debug\netcoreapp2.1\Movies.Client.csprojAssemblyReference.cache
+D:\PS\Using HttpClient to Consume APIs in .NET Core\02\demos\start\Movies.Client\obj\Debug\netcoreapp2.1\Movies.Client.csproj.CoreCompileInputs.cache
+D:\PS\Using HttpClient to Consume APIs in .NET Core\02\demos\start\Movies.Client\obj\Debug\netcoreapp2.1\Movies.Client.AssemblyInfoInputs.cache
+D:\PS\Using HttpClient to Consume APIs in .NET Core\02\demos\start\Movies.Client\obj\Debug\netcoreapp2.1\Movies.Client.AssemblyInfo.cs
+D:\PS\Using HttpClient to Consume APIs in .NET Core\02\demos\start\Movies.Client\obj\Debug\netcoreapp2.1\Movies.Client.dll
+D:\PS\Using HttpClient to Consume APIs in .NET Core\02\demos\start\Movies.Client\obj\Debug\netcoreapp2.1\Movies.Client.pdb
